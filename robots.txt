@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oagrateh.github.io/sitemap.html.gz
+Sitemap: https://oagrateh.github.io/app/sitemap.html.gz
+Sitemap: https://oagrateh.github.io/assets/sitemap.html.gz
+Sitemap: https://oagrateh.github.io/css/sitemap.html.gz
+Sitemap: https://oagrateh.github.io/includes/sitemap.html.gz
+Sitemap: https://oagrateh.github.io/item/sitemap.html.gz
+Sitemap: https://oagrateh.github.io/src/sitemap.html.gz
